@@ -25,7 +25,7 @@ class TEXT:
 
 
 ** Group:** [All User Process Group](https://t.me/publicleech1)
-
+"""
 
 
 
