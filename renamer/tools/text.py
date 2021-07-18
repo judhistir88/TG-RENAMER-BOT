@@ -35,7 +35,7 @@ class TEXT:
 ☞︎︎︎ Send a photo to set as permanent thumbnail.
 ☞︎︎︎ Now send me the Telegram file you want to rename.
 ☞︎︎︎ Send the new name when bot ask.
-Happy Renaming.
+
 """
 
     START_TEXT = """Hi {user_mention},
